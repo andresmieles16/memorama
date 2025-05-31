@@ -9,6 +9,11 @@ const municipios = [
   { nombre: "Pereira", imagen: "https://upload.wikimedia.org/wikipedia/commons/b/be/Mapa_Diocesis_de_Pereira.svg"},
   { nombre: "Ibague", imagen: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRSk4SuRk5Qtycd0-UurGax5faFb-83pJrtw&s"},
   { nombre: "Villavicencio", imagen: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-pqLT9f_cUXKd_cPU3sb0eKR6Z8Aa_WwlKw&s"},
+  { nombre: "Cucuta", imagen: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Mapa_Diocesis_de_Cucuta.svg/1200px-Mapa_Diocesis_de_Cucuta.svg.png"},
+  { nombre: "Pasto", imagen: "https://upload.wikimedia.org/wikipedia/commons/1/13/Mapa_Diocesis_de_Pasto.svg"},
+  { nombre: "Popayan", imagen: "https://upload.wikimedia.org/wikipedia/commons/6/6c/Mapa_Arquidiocesis_de_Popayan.svg"},
+  { nombre: "Riohacha", imagen: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDwKH_Zu7Y-tcG5ljThKau7EFblM984D3g3A&s"},
+  { nombre: "Quibdo", imagen: "https://upload.wikimedia.org/wikipedia/commons/0/03/Mapa_Diocesis_de_Quibdo.svg"},
 ];
 
 // Duplicamos las cartas: una con nombre, otra con imagen
