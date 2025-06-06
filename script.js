@@ -30,6 +30,7 @@ const gameBoard = document.getElementById('gameBoard');
 let flippedCards = [];
 let matchedPairs = 0;
 
+//
 function createCard(cardData) {
   const card = document.createElement('div');
   card.classList.add('card');
